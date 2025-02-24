@@ -1,4 +1,4 @@
-package yukams.app.background_locator_2
+package yukams.app.background_locator
 
 class Keys {
     companion object {
